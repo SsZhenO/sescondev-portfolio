@@ -20,12 +20,12 @@ h2{
   color: green;
 }
 
-.github{
+.ghub{
   font-size: 50px;
   color: grey;
 }
 
-.github:hover{
+.ghub:hover{
   font-size: 75px;
   color: green;
 }
