@@ -1,0 +1,144 @@
+*{
+  margin: o;
+  padding: 0;
+}
+
+
+.header{
+  margin: 0 auto;
+  
+  background-color: beige;
+  height: 550px;
+  min-height: 200px;
+  width: 1250px;
+  
+  
+}
+
+
+
+p{
+  text-align: left;
+  margin-top: -200px;
+  margin-left: 550px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  
+  
+}
+img{
+  margin-top: 100px;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  border-style: solid;
+  border-color: grey;
+  border-width: .5rem;
+  margin-left: 10%;
+}
+
+
+
+.greeting{
+  color: orange;
+  margin-top: -300px;
+  margin-left: 460px;
+}
+.p5{
+  margin-top: -50px;
+  margin-left: 460px;
+}
+.p6{
+  margin-top: -48px;
+  margin-left: 460px;
+}
+.p7{
+  margin-top: -50px;
+  margin-left: 460px;
+}
+
+.name{
+  color: orange;
+}
+
+.wrapper-main{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+  margin-top: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+.html{
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.p1{
+  margin-top: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 400px;
+  justify-content: center;
+}
+.line2{
+  width: 100%;
+  margin-top: 100px;
+  
+}
+
+.css{
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.p2{
+  margin-top: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 400px;
+  justify-content: center;
+}
+.line3{
+  width: 100%;
+  margin-top: 100px;
+  
+}
+.javascript{
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 100px;
+  margin-top: 30px;
+  
+}
+.p3{
+  margin-top: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 400px;
+  justify-content: center;
+}
+.line4{
+  width: 100%;
+  margin-top: 100px;
+}
+  
+  
+
+
+
+  

@@ -1,0 +1,32 @@
+
+
+h2{
+  font-size: 75px;
+  text-align: center;
+}
+.facebook{
+  font-size: 50px;
+  color: blue;
+}
+
+.facebook:hover{
+  font-size: 75px;
+  color: green;
+}
+.youtube{
+  font-size: 50px;
+  color: red;
+}
+.youtube:hover{
+  font-size: 75px;
+  color: green;
+}
+
+.container1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 10vh;
+ margin: 0;
+ gap: 50px;
+}
